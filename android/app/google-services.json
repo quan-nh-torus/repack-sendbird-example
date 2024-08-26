@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "392107310497",
+    "project_id": "belle-chat-8aac3",
+    "storage_bucket": "belle-chat-8aac3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392107310497:android:03d46efd207e543d755fe0",
+        "android_client_info": {
+          "package_name": "com.chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlTE7W2merdl82G4DtrWk3f-BijaxJOJw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
